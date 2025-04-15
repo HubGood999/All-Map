@@ -1,5 +1,5 @@
 local g = game.PlaceId
-if g == 16732694052 then
+if g == 16732694052 or g ==72907489978215 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/HubGood999/Kaitun_F/refs/heads/main/README.md"))() --  Fisch Kaitun
 elseif g == 130992896367999 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexus242/Nexus/refs/heads/main/Dawn%20Piece"))() -- Dawn Piece
